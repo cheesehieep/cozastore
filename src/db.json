@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "username": "CheeseHieep",
+      "email": "vuongchihiep3110@gmail.com",
+      "password": 123456,
+      "id": 1
+    },
+    {
+      "username": "CheeseHieep",
+      "email": "cheesehieep3110@gmail.com",
+      "password": 123456,
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "name": "Adidas",
+      "id": 1
+    },
+    {
+      "name": "Nike",
+      "id": 2
+    },
+    {
+      "name": "Puma",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "cate_id": "1",
+      "name": "Product 1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/cozastore-c93d8.appspot.com/o/images%2Fproduct-07.jpg?alt=media&token=070caf3c-f730-486e-949f-837b4df1c16b",
+      "price": "23",
+      "description": "description",
+      "id": 1
+    },
+    {
+      "cate_id": "1",
+      "name": "wwwert",
+      "image": "https://firebasestorage.googleapis.com/v0/b/cozastore-c93d8.appspot.com/o/images%2Fproduct-10.jpg?alt=media&token=4b301118-2faf-40c3-af6f-1935d331c20f",
+      "price": "432",
+      "description": "<p>fewrgeujyrjyr</p>",
+      "id": 2
+    },
+    {
+      "cate_id": "2",
+      "name": "paie",
+      "image": "https://firebasestorage.googleapis.com/v0/b/cozastore-c93d8.appspot.com/o/images%2Fproduct-14.jpg?alt=media&token=21e40d4b-88c5-4cf1-ac5d-6a47a9d5dce6",
+      "price": "56",
+      "description": "<p>afdsaf76</p>",
+      "id": 3
+    },
+    {
+      "cate_id": "1",
+      "name": "rehreh",
+      "image": "https://firebasestorage.googleapis.com/v0/b/cozastore-c93d8.appspot.com/o/images%2Fproduct-08.jpg?alt=media&token=ceec6641-9118-4fd3-af39-9fe235c45f0e",
+      "price": "786",
+      "description": "<p>agaeatrjryhrt</p>",
+      "id": 4
+    },
+    {
+      "cate_id": "1",
+      "name": "sderhh",
+      "image": "https://firebasestorage.googleapis.com/v0/b/cozastore-c93d8.appspot.com/o/images%2Fproduct-11.jpg?alt=media&token=94fd1ade-7222-4d54-a774-7d8ec55704e6",
+      "price": "45",
+      "description": "<p>gggggeeee</p>",
+      "id": 5
+    },
+    {
+      "cate_id": "1",
+      "name": "gadsfffg",
+      "image": "https://firebasestorage.googleapis.com/v0/b/cozastore-c93d8.appspot.com/o/images%2Fproduct-05.jpg?alt=media&token=b5f0b6cf-0073-446e-abfa-aefb580f7f6e",
+      "price": "34",
+      "description": "<p>jkjafkdjaoidjf</p>",
+      "id": 6
+    },
+    {
+      "cate_id": "1",
+      "name": "kajdfaifd",
+      "image": "https://firebasestorage.googleapis.com/v0/b/cozastore-c93d8.appspot.com/o/images%2Fproduct-16.jpg?alt=media&token=dc298f46-2c53-4b5d-a512-fac5ecd8b520",
+      "price": "45",
+      "description": "<p>joifjaiwkfda</p>",
+      "id": 7
+    },
+    {
+      "cate_id": "3",
+      "name": "jpaobg",
+      "image": "https://firebasestorage.googleapis.com/v0/b/cozastore-c93d8.appspot.com/o/images%2Fproduct-06.jpg?alt=media&token=dbc3bb2b-2f75-48c4-be9c-98231941db9b",
+      "price": "56",
+      "description": "<p>wafnkafoajfiej àduafhu</p>",
+      "id": 8
+    }
+  ]
+}
